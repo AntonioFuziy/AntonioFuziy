@@ -30,20 +30,20 @@
     Here are some tecnologies i've been working with:
 </h3>
 
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=000000)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&color=000000)
-![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&color=000000)
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&color=000000)
-![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&mongodbColor=white&color=000000)
-![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&color=000000)
-![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&&color=000000)
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&color=000000)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&reactColor=white&color=000000)
-![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL&vhdlColor=white&color=000000)
-![](https://img.shields.io/badge/-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&jupyternotebookColor=white&color=000000)
-![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=NodeJS&nodedjsColor=green&color=000000)
-![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&arduinoColor=white&color=000000)
-![](https://img.shields.io/badge/-Assembly-informational?style=flat&logo=Assembly&assemblyColor=white&color=000000)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=appveyor&logo=python&color=000000)
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=appveyor&logo=java&color=000000)
+![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=appveyor&logo=html5&color=000000)
+![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=appveyor&logo=css3&color=000000)
+![](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=appveyor&logo=MongoDB&mongodbColor=white&color=000000)
+![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=appveyor&logo=mySQL&color=000000)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=appveyor&logo=github&&color=000000)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=appveyor&logo=JavaScript&color=000000)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=appveyor&logo=React&reactColor=white&color=000000)
+![](https://img.shields.io/badge/-VHDL-informational?style=for-the-badge&logo=appveyor&logo=VHDL&vhdlColor=white&color=000000)
+![](https://img.shields.io/badge/-JupyterNotebook-informational?style=for-the-badge&logo=appveyor&logo=JupyterNotebook&jupyternotebookColor=white&color=000000)
+![](https://img.shields.io/badge/-NodeJS-informational?style=for-the-badge&logo=appveyor&logo=NodeJS&nodedjsColor=green&color=000000)
+![](https://img.shields.io/badge/-Arduino-informational?style=for-the-badge&logo=appveyor&logo=Arduino&arduinoColor=white&color=000000)
+![](https://img.shields.io/badge/-Assembly-informational?style=for-the-badge&logo=appveyor&logo=Assembly&assemblyColor=white&color=000000)
 
 
 <br />
