@@ -49,3 +49,5 @@
 <br />
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=AntonioFuziy&count_private=true&show_icons=true&theme=dracula)](https://github.com/AntonioFuziy/AntonioFuziy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&hide_border=true)
