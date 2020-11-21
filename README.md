@@ -15,14 +15,14 @@
 </h4>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="30" src="linkedin.svg"></a>
-    <a href="https://github.com/AntonioFuziy"><img height="30" src="github.svg"></a>
-    <a href="mailto:antoniofuziy@gmail.com"><img height="30" src="email-fechado.svg"></a>
+    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/linkedin.svg?raw=true"></a>
+    <a href="https://github.com/AntonioFuziy"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/github.svg?raw=true"></a>
+    <a href="mailto:antoniofuziy@gmail.com"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/email-fechado.svg?raw=true"></a>
 </p>
 
-<p>
+<h5>
     If you want to follow me:
-</p>
+</h5>
 
 ![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
 
@@ -30,15 +30,15 @@
     Here are some tecnologies i've been working with:
 </h3>
 
-![](https://img.shields.io/badge/-Python-informational)
-![](https://img.shields.io/badge/-Java-informational)
-![](https://img.shields.io/badge/-HTML-informational)
-![](https://img.shields.io/badge/-CSS-informational)
-![](https://img.shields.io/badge/-MySQL-informational)
-![](https://img.shields.io/badge/-GitHub-informational)
-![](https://img.shields.io/badge/-JavaScript-informational)
-![](https://img.shields.io/badge/-React-informational)
-![](https://img.shields.io/badge/-VHDL-informational)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=React)
+![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL)
 
 
 <br />
