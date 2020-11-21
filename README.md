@@ -15,9 +15,9 @@
 </h4>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/linkedin.svg?raw=true"></a>
-    <a href="https://github.com/AntonioFuziy"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/github.svg?raw=true"></a>
-    <a href="mailto:antoniofuziy@gmail.com"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/email-fechado.svg?raw=true"></a>
+    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/linkedin.png?raw=true"></a>
+    <a href="https://github.com/AntonioFuziy"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/github.png?raw=true"></a>
+    <a href="mailto:antoniofuziy@gmail.com"><img height="30" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/email.png?raw=true"></a>
 </p>
 
 <h5>
