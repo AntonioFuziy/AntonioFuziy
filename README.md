@@ -15,14 +15,10 @@
 </h4>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://github.com/AntonioFuziy"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/github.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:antoniofuziy@gmail.com"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/email.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/linkedin.png?raw=true"/></a>
+    <a href="https://github.com/AntonioFuziy"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/github.png?raw=true"/></a>
+    <a href="mailto:antoniofuziy@gmail.com"><img height="32" src="https://github.com/AntonioFuziy/AntonioFuziy/blob/master/email.png?raw=true"/></a>
 </p>
-
-<h5>
-    If you want to follow me:
-</h5>
 
 ![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
 
