@@ -30,15 +30,19 @@
     Here are some tecnologies i've been working with:
 </h3>
 
-![](https://img.shields.io/badge/-Python-informational?logo=python)
-![](https://img.shields.io/badge/-Java-informational?logo=java)
-![](https://img.shields.io/badge/-HTML-informational?logo=html5)
-![](https://img.shields.io/badge/-CSS-informational?logo=css3)
-![](https://img.shields.io/badge/-MySQL-informational?logo=mySQL)
-![](https://img.shields.io/badge/-GitHub-informational?logo=github)
-![](https://img.shields.io/badge/-JavaScript-informational?logo=JavaScript)
-![](https://img.shields.io/badge/-React-informational?logo=React)
-![](https://img.shields.io/badge/-VHDL-informational?logo=VHDL)
+![](https://img.shields.io/badge/-Python-informational?logo=python&color=#000000)
+![](https://img.shields.io/badge/-Java-informational?logo=java&color=#000000)
+![](https://img.shields.io/badge/-HTML-informational?logo=html5&color=#000000)
+![](https://img.shields.io/badge/-CSS-informational?logo=css3&color=#000000)
+![](https://img.shields.io/badge/-MySQL-informational?logo=mySQL&color=#000000)
+![](https://img.shields.io/badge/-GitHub-informational?logo=github&color=#000000)
+![](https://img.shields.io/badge/-JavaScript-informational?logo=JavaScript&color=#000000)
+![](https://img.shields.io/badge/-React-informational?logo=React&color=#000000)
+![](https://img.shields.io/badge/-VHDL-informational?logo=VHDL&color=#000000)
+![](https://img.shields.io/badge/-JupyterNotebook-informational?logo=JupyterNotebook&color=#000000)
+![](https://img.shields.io/badge/-NodeJS-informational?logo=NodeJS&color=#000000)
+![](https://img.shields.io/badge/-Arduino-informational?logo=Arduino&color=#000000)
+![](https://img.shields.io/badge/-Assembly-informational?logo=Assembly&color=#000000)
 
 
 <br />
