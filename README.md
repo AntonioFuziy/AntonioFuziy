@@ -22,7 +22,11 @@
     <a href="mailto:antoniofuziy@gmail.com">Email</a>
 </p>
 
+<p align="center">
+
 ![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
+
+</p>
 
 <h3>
     Here are some tecnologies i've been working with:
