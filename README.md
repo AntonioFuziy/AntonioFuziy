@@ -2,15 +2,15 @@
     <h2>Hi There! I'm Antonio Fuziy</h2>
 </strong>
 
-<p>
+<p align="center">
     I'm a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
 </p>
 
-<h3>
+<h3 align="center">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
 
-<h4>
+<h4 align="center">
     Here are my social medias and email:
 </h4>
 
