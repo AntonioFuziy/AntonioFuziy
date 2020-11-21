@@ -30,19 +30,19 @@
     Here are some tecnologies i've been working with:
 </h3>
 
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=#000000)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&color=#000000)
-![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&color=#000000)
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&color=#000000)
-![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&color=#000000)
-![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&color=#000000)
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&color=#000000)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&color=#000000)
-![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL&color=#000000)
-![](https://img.shields.io/badge/-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&color=#000000)
-![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=NodeJS&color=#000000)
-![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&color=#000000)
-![](https://img.shields.io/badge/-Assembly-informational?style=flat&logo=Assembly&color=#000000)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=477EDD)
+![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=DD5800)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=42759C)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&javascriptColor=white&color=000000)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&reactColor=white&color=dfe6e8)
+![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL&vhdlColor=white&color=2f7a7a)
+![](https://img.shields.io/badge/-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&jupyternotebookColor=white&color=#000000)
+![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=NodeJS&nodedjsColor=green&color=#000000)
+![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&arduinoColor=white&color=#000000)
+![](https://img.shields.io/badge/-Assembly-informational?style=flat&logo=Assembly&assemblyColor=white&color=#000000)
 
 
 <br />
