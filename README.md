@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-
+    
 ![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
 
 </p>
@@ -34,13 +34,14 @@
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=000000)
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
-![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
+![](https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=NextJS5&color=000000)
 ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=MongoDB&mongodbColor=white&color=000000)
 ![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=mySQL&color=000000)
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
-![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
+![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/-VHDL-informational?style=for-the-badge&logo=VHDL&vhdlColor=white&color=000000)
 ![](https://img.shields.io/badge/-JupyterNotebook-informational?style=for-the-badge&logo=JupyterNotebook&jupyternotebookColor=white&color=000000)
 ![](https://img.shields.io/badge/-NodeJS-informational?style=for-the-badge&logo=NodeJS&nodedjsColor=green&color=000000)
@@ -53,4 +54,4 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=AntonioFuziy&count_private=true&show_icons=true&theme=dracula)](https://github.com/AntonioFuziy/AntonioFuziy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&hide_border=true&theme=dracula)
