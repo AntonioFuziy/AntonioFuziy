@@ -14,13 +14,9 @@
     Here are my social medias and email:
 </h4>
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">Linkedin</a>
-    <br>
-    <a href="https://github.com/AntonioFuziy">Github</a>
-    <br>
-    <a href="mailto:antoniofuziy@gmail.com">Email</a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-vieira-fuziy/)](https://www.linkedin.com/in/antonio-vieira-fuziy/)
+
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniofuziy@gmail.com)](mailto:antoniofuziy@gmail.com)]
 
 <p align="center">
     
