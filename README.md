@@ -50,12 +50,9 @@
 &nbsp;
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy)
 
-<div>
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=AntonioFuziy&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/AntonioFuziy/AntonioFuziy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&hide_border=true&theme=dracula)
-
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AntonioFuziy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
- ![Snake animation](https://github.com/AntonioFuziy/AntonioFuziy/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/AntonioFuziy/AntonioFuziy/blob/output/github-contribution-grid-snake.svg) -->
