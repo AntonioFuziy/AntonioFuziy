@@ -19,8 +19,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-antoniofuziy@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniofuziy@gmail.com)](mailto:antoniofuziy@gmail.com)
 
 <p align="center">
-    
-![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
 
 </p>
 
@@ -40,14 +40,22 @@
 ![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/-VHDL-informational?style=for-the-badge&logo=VHDL&vhdlColor=white&color=000000)
 ![](https://img.shields.io/badge/-JupyterNotebook-informational?style=for-the-badge&logo=JupyterNotebook&jupyternotebookColor=white&color=000000)
-![](https://img.shields.io/badge/-NodeJS-informational?style=for-the-badge&logo=NodeJS&nodedjsColor=green&color=000000)
+![](https://img.shields.io/badge/-NodeJS-informational?style=for-the-badge&logo=NodeJS&nodejsColor=green&color=000000)
 ![](https://img.shields.io/badge/-Arduino-informational?style=for-the-badge&logo=Arduino&arduinoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Assembly-informational?style=for-the-badge&logo=Assembly&assemblyColor=white&color=000000)
 
+<br />
+<br />
 
-<br />
-<br />
+&nbsp;
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy)
+
+<div>
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=AntonioFuziy&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/AntonioFuziy/AntonioFuziy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&hide_border=true&theme=dracula)
+
+</div>
+
+ ![Snake animation](https://github.com/AntonioFuziy/AntonioFuziy/blob/output/github-contribution-grid-snake.svg)
