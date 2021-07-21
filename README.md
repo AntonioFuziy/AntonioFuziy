@@ -1,5 +1,5 @@
-<strong align="center">
-    <h1>Hi There! I'm Antonio Fuziy</h1>
+<strong>
+    <h1 align="center">Hi There! I'm Antonio Fuziy</h1>
 </strong>
 
 <p align="center">
