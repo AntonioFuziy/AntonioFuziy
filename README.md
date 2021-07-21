@@ -47,9 +47,12 @@
 <br />
 <br />
 
-&nbsp;
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy)
+<div align="center">
 
+&nbsp;
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy&theme=dracula)
+
+</div>
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AntonioFuziy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFuziy&layout=compact&langs_count=16&theme=dracula"/>
