@@ -1,5 +1,5 @@
-<strong>
-    <h2>Hi There! I'm Antonio Fuziy</h2>
+<strong align="center">
+    <h1>Hi There! I'm Antonio Fuziy</h1>
 </strong>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 </div>
 
-<h3 align="center">
+<h2 align="center">
     Here are some tecnologies i've been working with:
-</h3>
+</h2>
 
 <div align="center">
 
