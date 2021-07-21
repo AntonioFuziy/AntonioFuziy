@@ -55,7 +55,7 @@
 <br />
 
 <div align="center">
-    <img w="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy&theme=dracula"/>
+    <img w="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy&theme=dracula"/>
 </div>
 
 <div align="center">
