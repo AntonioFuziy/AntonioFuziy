@@ -20,6 +20,8 @@
     My CV
 </a>
 
+<br/>
+
 </div>
 
 <div align="center">
