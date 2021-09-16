@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![]](https://img.shields.io/badge/link=https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing)
+[![My CV]](https://img.shields.io/badge/link=https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing)
 
 </div>
 
@@ -41,7 +41,6 @@
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=000000)
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
-
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
