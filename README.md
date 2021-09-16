@@ -16,7 +16,9 @@
 
 <div align="center">
 
-![My CV](https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing)
+<a href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+    My CV
+</a>
 
 </div>
 
