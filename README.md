@@ -1,32 +1,32 @@
-<div align="left">
 <strong>
-    <h1>Hi There! I'm Antonio Fuziy</h1>
+    <h1 align="left">Hi There! I'm Antonio Fuziy</h1>
 </strong>
 
-<p>
+<p align="left">
     I'm a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
 </p>
 
-<h3>
+<h3 align="left">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
-</div>
 
-<div align="right">
-<h4>
+<h4 align="right">
     Here are my social medias and email:
 </h4>
 
-<a href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+<a align="right" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
 
-![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/)
-![(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniofuziy@gmail.com)
+<p align="right" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<p align="right" src="mailto:antoniofuziy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
 
 <br/>
-
-</div>
 
 <div align="right">
 
