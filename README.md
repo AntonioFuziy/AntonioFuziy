@@ -7,9 +7,9 @@
 <h3 align="left">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
-<h4 align="left">
+<h2 align="left">
     Here are my social medias and email:
-</h4>
+</h2>
 
 <a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
@@ -21,12 +21,8 @@
 <a href="mailto:antoniofuziy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<div>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
-
-</div>
-
 <h2 align="left">
     Here are some tecnologies i've been working with:
 </h2>
