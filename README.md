@@ -14,12 +14,12 @@
     My CV
 </a>
 <div align="center">
-<p src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
+<a src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-<p src="mailto:antoniofuziy@gmail.com">
+<a src="mailto:antoniofuziy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</p>
+</a>
 <div>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
