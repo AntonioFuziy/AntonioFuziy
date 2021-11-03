@@ -13,14 +13,13 @@
 <a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
-<p align="left" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
+<p align="center" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-<p align="right" src="mailto:antoniofuziy@gmail.com">
+<p align="center" src="mailto:antoniofuziy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
-<br/>
-<div align="left">
+<div align="center">
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
 
