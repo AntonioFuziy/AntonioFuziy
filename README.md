@@ -10,18 +10,20 @@
 <h4 align="right">
     Here are my social medias and email:
 </h4>
-<a align="right" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+<a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
-<p align="right" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
+<p align="left" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 <p align="right" src="mailto:antoniofuziy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 <br/>
-<div align="right">
+<div align="left">
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
+
 </div>
 
 <h2 align="left">
@@ -51,12 +53,13 @@
 </div>
 
 <br />
-<br />
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy&theme=tokyonight"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AntonioFuziy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+<br/>
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=AntonioFuziy&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=FFFFFF&hide_border=true"/>
