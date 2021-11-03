@@ -1,37 +1,27 @@
 <strong>
     <h1 align="left">Hi There! I'm Antonio Fuziy</h1>
 </strong>
-
 <p align="left">
     I'm a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
 </p>
-
 <h3 align="left">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
-
 <h4 align="right">
     Here are my social medias and email:
 </h4>
-
 <a align="right" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
-
 <p align="right" src="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-
 <p align="right" src="mailto:antoniofuziy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
-
 <br/>
-
 <div align="right">
-
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
-
 </div>
 
 <h2 align="left">
