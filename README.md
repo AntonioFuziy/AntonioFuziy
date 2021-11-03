@@ -7,14 +7,14 @@
 <h3 align="left">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
-<h4 align="right">
+<h4 align="left">
     Here are my social medias and email:
 </h4>
 
-<a align="center" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+<a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
