@@ -10,10 +10,11 @@
 <h4 align="right">
     Here are my social medias and email:
 </h4>
-<div align="center">
-<a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+
+<a align="center" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
     My CV
 </a>
+<div align="center">
 <a href="https://www.linkedin.com/in/antonio-vieira-fuziy-459410195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
