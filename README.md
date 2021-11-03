@@ -7,6 +7,9 @@
 <h3 align="left">
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
+
+<br/>
+
 <h2 align="left">
     Here are my social medias and email:
 </h2>
@@ -23,6 +26,7 @@
 </a>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
+<br/>
 <h2 align="left">
     Here are some tecnologies i've been working with:
 </h2>
