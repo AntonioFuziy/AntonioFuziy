@@ -1,13 +1,13 @@
 <div align="left">
 <strong>
-    <h1 align="center">Hi There! I'm Antonio Fuziy</h1>
+    <h1>Hi There! I'm Antonio Fuziy</h1>
 </strong>
 
-<p align="center">
+<p>
     I'm a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
 </p>
 
-<h3 align="center">
+<h3>
     I am very interested in Web Development, AI, Machine Learning, Software Development.
 </h3>
 </div>
