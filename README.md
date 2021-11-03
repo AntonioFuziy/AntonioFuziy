@@ -55,9 +55,7 @@
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioFuziy&theme=tokyonight"/>
-</div>
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AntonioFuziy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AntonioFuziy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
