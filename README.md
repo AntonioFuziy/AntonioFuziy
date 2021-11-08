@@ -14,7 +14,7 @@
     Here are my social medias and email:
 </h2>
 
-<a align="left" href="https://drive.google.com/file/d/16ga8UeA6SZGvtji0pKeG8spYawXkGJOn/view?usp=sharing">
+<a align="left" href="https://drive.google.com/file/d/1NlSkt8CQT9Qr3AB9tO5kzWPA4Uv92YCr/view?usp=sharing">
     My CV
 </a>
 
