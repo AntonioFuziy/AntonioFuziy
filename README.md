@@ -32,8 +32,9 @@
 </a>
 
 <br/>
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AntonioFuziy&repo=AntonioFuziy&countColorcountColor)
+    
+<p align="center"><img src="https://profile-counter.glitch.me/{AntonioFuziy}/count.svg" alt="AntonioFuziy :: Visitor's Count" /></p>
+    
 <br/>
 <h2 align="left">
     Here are some tecnologies i've been working with:
